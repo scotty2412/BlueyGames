@@ -45,6 +45,22 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Guardian Assest\Scripts\CameraFollow.cs" />
+     <Compile Include="Assets\Guardian Assest\Scripts\DealDamage.cs" />
+     <Compile Include="Assets\Guardian Assest\Scripts\EnemyScripts\BossAI.cs" />
+     <Compile Include="Assets\Guardian Assest\Scripts\EnemyScripts\BossGroundCheck.cs" />
+     <Compile Include="Assets\Guardian Assest\Scripts\EnemyScripts\EnemyAttack.cs" />
+     <Compile Include="Assets\Guardian Assest\Scripts\EnemyScripts\EnemyChase.cs" />
+     <Compile Include="Assets\Guardian Assest\Scripts\EnemyScripts\EnemyHealth.cs" />
+     <Compile Include="Assets\Guardian Assest\Scripts\EnemyScripts\FriendlyClose.cs" />
+     <Compile Include="Assets\Guardian Assest\Scripts\EnemyScripts\GroundorWall.cs" />
+     <Compile Include="Assets\Guardian Assest\Scripts\HUD.cs" />
+     <Compile Include="Assets\Guardian Assest\Scripts\HealthPotion.cs" />
+     <Compile Include="Assets\Guardian Assest\Scripts\PlayerScripts\Attack.cs" />
+     <Compile Include="Assets\Guardian Assest\Scripts\PlayerScripts\Fireball.cs" />
+     <Compile Include="Assets\Guardian Assest\Scripts\PlayerScripts\GroundCheck.cs" />
+     <Compile Include="Assets\Guardian Assest\Scripts\PlayerScripts\GuyMove.cs" />
+     <Compile Include="Assets\Guardian Assest\Scripts\PlayerScripts\PlayerHealth.cs" />
      <Compile Include="Assets\Guardian Assest\Scripts\test.cs" />
      <None Include="Assets\Standard Assets\Vehicles\Car\Shaders\DiffuseReflectiveShader.shader" />
      <None Include="Assets\Standard Assets\Vehicles\Aircraft\AircraftGuidelines.txt" />
